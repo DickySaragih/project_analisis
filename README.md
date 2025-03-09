@@ -19,6 +19,6 @@ cd "C:\Users\ASUS\Documents\e_commerce_publik_dataset"
 
   Local URL: http://localhost:8501
   Network URL: http://192.168.2.115:8501
-
+t
 
 
