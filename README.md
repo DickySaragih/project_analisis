@@ -1,8 +1,10 @@
 # project_analisis
-#set up environment-anaconda
+##set up environment-anaconda
+---
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install -r requirements.txt
+---
 #Setup Environment - Shell/Terminal
 mkdir E_commerce_public_dataset
 cd E_commerce_public_dataset
