@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+google-colab
+streamlit
+conda 24.9.2
+
+
